@@ -19,6 +19,7 @@ Figure_4.png : shows next 1200 - 1600 elements of variation vector for LSTM mode
 Figure_5.png : shows next 1600 - 2000 elements of variation vector for LSTM model
 
 Similarly, 
+
 Figure_11.png : shows first 0 - 400 elements of variation vector for BiLSTM model
 
 Figure_22.png : shows next 400 - 800 elements of variation vector for BiLSTM model
