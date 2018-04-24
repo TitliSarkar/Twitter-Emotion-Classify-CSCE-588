@@ -1,7 +1,15 @@
 # Twitter-Emotion-Classify-CSCE-588
-Predict emotion of tweets using LSTM, BiLSTM
+Predict emotions amger, fear, joy, sadness of tweets using LSTM, BiLSTM
+Annotations:
+Anger -1 
+Fear - 2
+Joy - 3
+Sadness - 4
+
+Dataset: Semeval Task 2018: Affect in Twitter
 
 File description:
+
 1. twitter_emotion_classify_titli.py: full source code
 
 2. sample_output.txt: Sample output from one execution. The hyperparameters should be changed and the code should be reexecured to observe                       their effect in the output.
