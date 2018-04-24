@@ -6,7 +6,7 @@ Fear - 2
 Joy - 3
 Sadness - 4
 
-Dataset: Semeval Task 2018: Affect in Twitter
+Dataset: Semeval Task 2018: Affects in Twitter
 
 File description:
 
